@@ -20,7 +20,7 @@ A full-stack **Node.js + TypeScript + React (TSX)** project to manage projects a
 
 ```bash
 git clone https://github.com/madushankapathi/KEA-Full-Stack-Take-Home-Assignment.git
-cd KEA ASSIGNMENT/backend
+cd KEA KEA-Full-Stack-Take-Home-Assignment/backend
 ```
 
 2. Install dependencies:
